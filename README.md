@@ -812,11 +812,9 @@ These are demonstration use cases, not claims of operational deployment.
 
 ## 17. GitHub Repository
 
-**Repository:** `SentinelX-AI`
+**Repository:** `SentinelX-AI-Intelligent-Threat-Detection-Security-Analytics-Platform`
 
 **Suggested Topics:**
-
-`cybersecurity` · `machine-learning` · `threat-detection` · `anomaly-detection` · `network-security` · `deep-learning` · `python` · `streamlit` · `scikit-learn` · `security-analytics`
 
 ---
 
