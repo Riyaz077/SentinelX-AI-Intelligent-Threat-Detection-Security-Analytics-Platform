@@ -726,10 +726,8 @@ SentinelX AI is configured for deployment as a Python-based Streamlit web servic
 After deployment, add the following environment variable in Render:
 
 ```text
-SENTINELX_PUBLIC_URL=https://sentinelx-ai-ai-powered-cybersecurity.onrender.com/
+https://sentinelx-ai-ai-powered-cybersecurity.onrender.com/
 ```
-
-Replace the example URL with your actual deployed address.
 
 The application reads this variable to display the **Open Live Dashboard** link in the footer.
 
