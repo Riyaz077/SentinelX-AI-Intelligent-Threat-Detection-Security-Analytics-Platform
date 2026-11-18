@@ -9,13 +9,6 @@
   <strong>An Intelligent Security Analytics & Threat Detection System</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Visualization-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-</p>
 
 <p align="center">
   <strong>Machine Learning | Deep Learning | Threat Detection | Anomaly Analytics | Security Intelligence</strong>
@@ -733,7 +726,7 @@ SentinelX AI is configured for deployment as a Python-based Streamlit web servic
 After deployment, add the following environment variable in Render:
 
 ```text
-SENTINELX_PUBLIC_URL=https://your-service-name.onrender.com
+SENTINELX_PUBLIC_URL=https://sentinelx-ai-ai-powered-cybersecurity.onrender.com/
 ```
 
 Replace the example URL with your actual deployed address.
@@ -831,11 +824,9 @@ These are demonstration use cases, not claims of operational deployment.
 
 ## 18. Author
 
-**Mohamed Riyaz S.**
-
-Integrated M.Tech Computer Science and Engineering  
-Specialization in Business Analytics  
-VIT Chennai
+**Mohamed Riyaz S.**  
+Integrated M.Tech – Computer Science and Engineering (Business Analytics)  
+Vellore Institute of Technology (VIT), Chennai
 
 **Project:** SentinelX AI – Cybersecurity Intelligence & Threat Detection Platform
 
